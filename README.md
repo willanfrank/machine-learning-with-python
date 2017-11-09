@@ -4,7 +4,7 @@ These are my notes for the above course.
 
 Please feel free to email me on anthonytyng@gmail.com
 
-Below is a Table of Contents and the accompanied codes
+Below is the Table of Contents and the accompanying codes
 
 # Section 1: Introduction
 * What does the Course Cover?
@@ -96,6 +96,7 @@ Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Ma
 * Dimensionality Reduction Demo
 * [Project Wine 1: Dimensionality Reduction with PCA](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/09%20Project%20Wine.ipynb)
 * Project Wine 2: Choosing the Number of Components
-* Kernel PCA
+* [Kernel PCA](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/09%20Kernel%20PCA.ipynb)
 * Kernel PCA Demo
-* LDA & Comparison between LDA and PCA
+* [LDA & Comparison between LDA and PCA](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/09%20Linear%20Discriminant%20Analysis%20(LDA).ipynb)
+* [Project Abalone](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/09%20Project%20Abalone.ipynb)
