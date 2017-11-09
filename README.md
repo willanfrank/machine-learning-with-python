@@ -40,7 +40,7 @@ Below is the Table of Contents and the accompanying codes
 * Introduction
 * [Logistic Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20Logistic%20Regression.ipynb)
 
-[Codes for the MNIST Project]((https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20MNIST.ipynb))
+[Codes for the MNIST Project](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20MNIST.ipynb)
 * MNIST Project - SGDClassifier
 * MNIST Project - Performance Measures
 * MNIST Project - Confusion Matrix
