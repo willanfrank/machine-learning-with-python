@@ -13,7 +13,7 @@ Below is a Table of Contents and the accompanied codes
 * Downloading & Installing Anaconda
 * Managing Environment
 * Navigating the Spyder & Jupyter Notebook Interface
-* [Downloading the IRIS Datasets](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning/blob/master/02%20Hello%20World.ipynb)
+* [Downloading the IRIS Datasets](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/02%20Hello%20World.ipynb)
 * [Data Exploration and Analysis & Presenting Your Data](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning/blob/master/02%20Iris%20Project.ipynb)
 
 # Section 3: Regression
