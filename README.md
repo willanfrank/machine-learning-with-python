@@ -39,7 +39,14 @@ Below is a Table of Contents and the accompanied codes
 # Section 4: Classification
 * Introduction
 * [Logistic Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20Logistic%20Regression.ipynb)
-* [MNIST Project 1 - SGDClassifier, Performance Measures, Confusion Matrix, Precision, Recall and F1 Score, Precision and Recall Tradeoff & The ROC Curve](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20MNIST.ipynb)
+
+[Codes for the MNIST Project]((https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20MNIST.ipynb))
+* MNIST Project - SGDClassifier
+* MNIST Project - Performance Measures
+* MNIST Project - Confusion Matrix
+* MNIST Project - Precision, Recall and F1 Score
+* MNIST Project - Precision and Recall Tradeoff 
+* MNIST Project - The ROC Curve
 
 # Section 5: Support Vector Machine (SVM)
 Topics covered and [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/05%20Support%20Vector%20Machine.ipynb)
