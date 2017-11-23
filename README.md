@@ -101,3 +101,15 @@ Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Ma
 * Kernel PCA Demo
 * [LDA & Comparison between LDA and PCA](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/09%20Linear%20Discriminant%20Analysis%20(LDA).ipynb)
 * [Project Abalone](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/09%20Project%20Abalone.ipynb)
+
+# Section 10: Clustering
+* Clustering Introduction
+* [Overview of Clustering Methods](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/10%20Clustering.ipynb)
+* Installing Mlxtend
+* Ward’s Agglomerative Hierarchical Clustering 
+* Truncating Dendrogram
+* k-Means Clustering
+* Elbow Method
+* Silhouette Analysis
+* Mean Shift
+
