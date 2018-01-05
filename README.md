@@ -38,9 +38,9 @@ Below is the Table of Contents and the accompanying codes
 
 # Section 4: Classification
 * Introduction
-* [Logistic Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20Logistic%20Regression.ipynb)
+* [Logistic Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/04-01-Logistic%20Regression.ipynb)
 
-[Codes for the MNIST Project](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/04%20MNIST.ipynb)
+[Codes for the MNIST Project](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/04-02-MNIST.ipynb)
 * MNIST Project - SGDClassifier
 * MNIST Project - Performance Measures
 * MNIST Project - Confusion Matrix
@@ -49,7 +49,7 @@ Below is the Table of Contents and the accompanying codes
 * MNIST Project - The ROC Curve
 
 # Section 5: Support Vector Machine (SVM)
-Topics covered and [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/05%20Support%20Vector%20Machine.ipynb)
+Topics covered and [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/05-Support%20Vector%20Machine.ipynb)
 * Introduction
 * Support Vector Machine (SVM) Concepts
 * Linear SVM Classification
@@ -59,7 +59,7 @@ Topics covered and [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machin
 * Advantages and Disadvantages of SVM
 
 # Section 6: Tree
-Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/06%20Tree.ipynb)
+Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/06-01-Tree.ipynb)
 * Introduction
 * What is Decision Tree
 * Training a Decision Tree
@@ -68,7 +68,7 @@ Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Ma
 * Decision Tree Regression
 * Overfitting and Grid Search
 * Where to From Here
-* [Project HR - Loading and preprocesing data & Modelling](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/06%20Project%20HR.ipynb)
+* [Project HR - Loading and preprocesing data & Modelling](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/06-02-Project%20HR.ipynb)
 
 # Section 7: Ensemble Machine Learning
 * Introduction
