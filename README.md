@@ -21,20 +21,19 @@ Below is the Table of Contents and the accompanying codes
 * Categories of Machine Learning
 * Working with Scikit-Learn
 
-[Codes for the following Boston Housing section](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Boston%20Housing%20Price%20Prediction.ipynb)
+[Codes for the following Boston Housing section](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-01-Boston%20Housing%20Price%20Prediction.ipynb)
 * Boston Housing Data - EDA
 * Boston Housing Data - Correlation Analysis and Feature Selection
 * Boston Housing Data - Simple Linear Regression Modelling with Boston Housing Data
 * Boston Housing Data - Robust Regression
 * Boston Housing Data - Evaluate Model Performance
-* [Multiple Regression with statsmodel and Feature Importance](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Multiple%20Regression.ipynb)
-* [Ordinary Least Square Regression and Gradient Descent](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Gradient%20Descent.ipynb)
-* [Regularised Method for Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Regularized%20Regression.ipynb)
-* [Polynomial Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Polynomial%20Regression.ipynb)
-* [Dealing with Non-linear relationships & Feature Importance Revisited](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Nonlinear%20Relationships.ipynb)
-* [Data Pre-Processing](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Data%20Pre-processing.ipynb)
-* [Variance Bias Trade Off - Validation Curve & Learning Curve](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Variance-Bias%20Tradeoff.ipynb)
-* [Cross Validation](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/03%20Cross%20Validation.ipynb)
+* [Multiple Regression with statsmodel and Feature Importance](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-02-Multiple%20Regression.ipynb)
+* [Ordinary Least Square Regression and Gradient Descent](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-03-Gradient%20Descent.ipynb)
+* [Regularised Method for Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-04-Regularized%20Regression.ipynb)
+* [Polynomial Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-05-Polynomial%20Regression.ipynb)
+* [Dealing with Non-linear relationships & Feature Importance Revisited](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-06-Nonlinear%20Relationships.ipynb](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-07-Data%20Pre-processing.ipynb)
+* [Variance Bias Trade Off - Validation Curve & Learning Curve](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-08-Variance-Bias%20Tradeoff.ipynb)
+* [Cross Validation](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-09-Cross%20Validation.ipynb)
 
 # Section 4: Classification
 * Introduction
