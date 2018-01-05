@@ -31,8 +31,8 @@ Below is the Table of Contents and the accompanying codes
 * [Ordinary Least Square Regression and Gradient Descent](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-03-Gradient%20Descent.ipynb)
 * [Regularised Method for Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-04-Regularized%20Regression.ipynb)
 * [Polynomial Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-05-Polynomial%20Regression.ipynb)
-* [Dealing with Non-linear relationships & Feature Importance Revisited](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-07-Data%20Pre-processing.ipynb)
-* [Data Pre-processing](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-06-Nonlinear%20Relationships.ipynb)
+* [Dealing with Non-linear relationships & Feature Importance Revisited](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-06-Nonlinear%20Relationships.ipynb)
+* [Data Pre-processing](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-07-Data%20Pre-processing.ipynb)
 * [Variance Bias Trade Off - Validation Curve & Learning Curve](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-08-Variance-Bias%20Tradeoff.ipynb)
 * [Cross Validation](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/03-09-Cross%20Validation.ipynb)
 
