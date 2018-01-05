@@ -83,12 +83,12 @@ Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Ma
 * [Ensemble of ensembles 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-09-Ensemble%20of%20Ensembles%202.ipynb)
 
 # Section 8: k-Nearest Neighbours (kNN)
-Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/08%20k-Nearest%20Neighbor%20%28KNN%29.ipynb)
+Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/08-01-k-Nearest%20Neighbor%20(KNN).ipynb)
 * kNN Introduction
 * kNN Concepts
 * kNN and Iris Dataset Demo
 * Distance Metric
-* [Project Cancer Detection](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/08%20Project%20Cancer%20Detection.ipynb)
+* [Project Cancer Detection](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/08-02-Project%20Cancer%20Detection.ipynb)
 
 # Section 9: Dimensionality Reduction
 * Introduction
