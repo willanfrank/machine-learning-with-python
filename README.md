@@ -72,15 +72,15 @@ Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Ma
 
 # Section 7: Ensemble Machine Learning
 * Introduction
-* [Ensemble Learning Methods Introduction](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20Methods%201%20-%20Ensemble%20Learning%20Methods%20Introduction.ipynb)
-* [Bagging Part 1 & 2](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20Methods%202%20-%20Bagging%20Machine%20Learning%20Algorithm.ipynb)
+* [Ensemble Learning Methods Introduction](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-01-Ensemble%20Methods%201%20-%20Ensemble%20Learning%20Methods%20Introduction.ipynb)
+* [Bagging Part 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-02-Ensemble%20Methods%202%20-%20Bagging%20Machine%20Learning%20Algorithm.ipynb) & [Part 2](https://github.com/anthonyng2/machine-learning-with-python/blob/update_jan01/07-03-Ensemble%20Methods%203%20-%20Random%20Forest%20and%20Extra-Trees.ipynb)
 * [Random Forests & Extra-Trees](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20Methods%203%20-%20Random%20Forest%20and%20Extra-Trees.ipynb)
-* [AdaBoost & Gradient Boosting Machine](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20Methods%204%20-%20AdaBoost%20%26%20Gradient%20Boosting%20Machine.ipynb)
-* [XGBoost Installation Guide. NB: Do not forget to set up an environment for this](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/08%20XGBoost%20Installation%20Instruction.ipynb)
-* [XGBoost](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/08%20XGBoost.ipynb)
-* [Project HR - Human Resources Analytics](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/08%20Project%20HR%20Complete.ipynb)
-* [Ensemble of ensembles 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20of%20Ensembles%201.ipynb)
-* [Ensemble of ensembles 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/07%20Ensemble%20of%20Ensembles%202.ipynb)
+* [AdaBoost & Gradient Boosting Machine](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-04-Ensemble%20Methods%204%20-%20AdaBoost%20%26%20Gradient%20Boosting%20Machine.ipynb)
+* [XGBoost Installation Guide. NB: Do not forget to set up an environment for this](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/blob/update_jan01/07-05-XGBoost%20Installation%20Instruction.ipynb)
+* [XGBoost](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/update_jan01/07-06-XGBoost.ipynb)
+* [Project HR - Human Resources Analytics](https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/update_jan01/07-07-Project%20HR%20Complete.ipynb)
+* [Ensemble of ensembles 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-08-Ensemble%20of%20Ensembles%201.ipynb)
+* [Ensemble of ensembles 1](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/07-09-Ensemble%20of%20Ensembles%202.ipynb)
 
 # Section 8: k-Nearest Neighbours (kNN)
 Topics covered and the [codes](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/08%20k-Nearest%20Neighbor%20%28KNN%29.ipynb)
