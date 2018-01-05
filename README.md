@@ -12,8 +12,8 @@ Below is the Table of Contents and the accompanying codes
 # Section 2: Getting Started with Anaconda
 * Downloading & Installing Anaconda
 * Managing Environment
-* [Navigating the Spyder & Jupyter Notebook Interface]((https://nbviewer.jupyter.org/github/anthonyng2/machine-learning-with-python/blob/master/02%20Hello%20World.ipynb))
-* [Downloading the IRIS Datasets](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/master/02%20Iris%20Project.ipynb)
+* [Navigating the Spyder & Jupyter Notebook Interface](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/02-01-Hello%20World.ipynb)
+* [Downloading the IRIS Datasets](https://nbviewer.jupyter.org/github/anthonyng2/Machine-learning-with-python/blob/update_jan01/02-02-Iris%20Project.ipynb)
 * Data Exploration and Analysis & Presenting Your Data
 
 # Section 3: Regression
