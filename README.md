@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/anthonyng2/machine-learning-with-python/master)
+
+
 # The Complete Machine Learning Course with Python
 
 These are my notes for the above course. 
